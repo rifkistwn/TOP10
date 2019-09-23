@@ -1,0 +1,44 @@
+<resources>
+    <array name="data_photo">
+        <item>@drawable/itb</item>
+        <item>@drawable/ugm</item>
+        <item>@drawable/ipbfix</item>
+        <item>@drawable/its</item>
+        <item>@drawable/ui</item>
+        <item>@drawable/undipfix</item>
+        <item>@drawable/unair</item>
+        <item>@drawable/hasanuddin</item>
+        <item>@drawable/brawijaya</item>
+        <item>@drawable/unpadfix</item>
+    </array>
+    <string name="name_unives">Universitas</string>
+    <string name="desc">Berdiri Sejak 1899</string>
+
+    <string name="app_name">Top 10 Apps Universitas di Indonesia</string>
+
+    <string-array name="data_description">
+        <item>SKOR 3.671</item>
+        <item>SKOR 3.594</item>
+        <item>SKOR 3.577</item>
+        <item>SKOR 3.462</item>
+        <item>SKOR 3.401</item>
+        <item>SKOR 3.207</item>
+        <item>SKOR 3.056</item>
+        <item>SKOR 3.036</item>
+        <item>SKOR 2.948</item>
+        <item>SKOR 2.906</item>
+    </string-array>
+
+    <string-array name="data_name">
+        <item>Institut Teknologi Bandung</item>
+        <item>Universitas Gadjah Mada</item>
+        <item>Institut Pertanian Bogor</item>
+        <item>Institut Teknologi Sepuluh Nopember</item>
+        <item>Universitas Indonesia</item>
+        <item>Universitas Diponegoro</item>
+        <item>Universitas Airlangga</item>
+        <item>Universitas Hasanuddin</item>
+        <item>Universitas Brawijaya</item>
+        <item>Universitas Padjadjaran</item>
+    </string-array>
+</resources>
